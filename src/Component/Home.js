@@ -9,8 +9,7 @@ const Home = ()=>{
                     I'm a Software Developer
                 </h2>
                 <p className="text-gray-500 py-4 max-w-md text-justify" >
-                A highly motivated person.Can work well under pressure and make the best of any situation. Passionate individual with great
-interpersonal and communication skills.
+                A versatile software engineer with expertise in HTML, React.js, Tailwind CSS, and C++. Successfully completed projects in C++ and demonstrated proficiency in utilizing Google Test for effective software testing. Proven ability to excel under pressure
 
                 </p>
                 <div>
