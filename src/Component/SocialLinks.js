@@ -45,11 +45,10 @@ const SocialLinks = ()=>{
                 <i class="text-2xl text-white fa-regular fa-id-card"></i>
                 </>
             ),
-            href:'/Resume.docx',
+            href:'/Anurag_Resume.pdf',
             style:"rounded-br-md",
             download:true
-           
-
+    
         },
        
      ]
